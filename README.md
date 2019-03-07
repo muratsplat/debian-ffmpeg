@@ -6,6 +6,3 @@ This repo is created for my speacial case to get time.
 * ffmpeg
 * CA-Certificates
 
-### Python
-* virtualenv
-* dlib 
